@@ -1,5 +1,5 @@
-## Team No. 9 - Order Status Chat Bot
-
+## Order Status Chat Bot
+This project was made during Dell Hack-to-Hire Hackathon '19.
 
 ### Project Overview
 ----------------------------------
@@ -8,7 +8,7 @@
     The problem given to us was to develop an Order Status Chat Bot for DELL Internal Agents. There is no single tool to suggest the status of Order Journey in real time. Disconnected Order Journey and multiple System provides various states in siloed way.
 
 * What is the proposed solution?<br>
-    To deal with our Problem, we designed a DELL Agent Chat Box that can help a customer with his/her issues regarding his/her product delivery status like its estimated delivery time, current location of the product,etc
+    To deal with our Problem, we designed a DELL Agent Chat Box that can help a customer with their issues regarding their product delivery status like its estimated delivery time, current location of the product,etc
 
 
 ### Solution Description
@@ -21,10 +21,6 @@ We have designed a Chat Bot named DELL Agent. It interacts with the customer and
 4. Support
 
 These systems help in smooth transition of the user according to the request/query/issue.
-
-#### Architecture Diagram
-![alt text](https://drive.google.com/open?id=1KpBo_mCB5wLEU6rOYo5G7roqW1jwCVQM "Architecture Diagram")
-
 
 #### Technical Description
  * What technologies/versions were used
